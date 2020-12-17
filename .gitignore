@@ -1,5 +1,6 @@
 #### Personal Ignore Additions
 data/*
+!data/.gitignore 
 #####################General Ignore List###############################
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks

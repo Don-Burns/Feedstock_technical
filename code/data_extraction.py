@@ -69,7 +69,7 @@ def split_emails(emails):
     """
 
     nrow = emails.shape[0]
-
+    parse_email = Parser().parsestr
     # specify empty lists with explicit length 
     from_list = [None] * nrow
     to_list = [None] * nrow
